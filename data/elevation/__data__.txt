@@ -1,0 +1,4 @@
+GMTED2010 elevation data (reprojected, from EE)
+
+
+Resolution: 250 meters 

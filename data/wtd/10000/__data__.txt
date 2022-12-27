@@ -1,0 +1,3 @@
+Fan WTD (reprojected from original)
+
+Resolution: 10km (0.0888 degrees)

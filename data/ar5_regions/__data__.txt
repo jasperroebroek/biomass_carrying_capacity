@@ -1,0 +1,5 @@
+SREX polygons
+
+Downloaded from:
+https://data.ceda.ac.uk/badc/ipcc-ddc-regions/data/ar5/regions
+

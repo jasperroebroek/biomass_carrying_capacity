@@ -1,0 +1,3 @@
+WORLDCLIM bioclimatic variables (reprojected)
+ 
+Resolution: 20km

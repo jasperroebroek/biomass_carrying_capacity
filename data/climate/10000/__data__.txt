@@ -1,0 +1,3 @@
+WORLDCLIM bioclimatic variables (reprojected)
+ 
+Resolution: 10 km (0.0888 degrees)

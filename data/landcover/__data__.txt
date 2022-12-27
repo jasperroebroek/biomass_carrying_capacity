@@ -1,0 +1,4 @@
+CGLS-LC100 Landcover classification (reprojected, from EE)
+https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_Landcover_100m_Proba-V-C3_Global
+
+Resolution: 250m (0.00222 degrees)

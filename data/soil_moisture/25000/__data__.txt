@@ -1,0 +1,3 @@
+Soil moisture from ERA5-land (reprojected)
+
+Resolution: 25km (0.222222 degrees)

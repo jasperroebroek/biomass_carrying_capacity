@@ -1,0 +1,4 @@
+GMTED2010 slope data (reprojected, from EE)
+
+
+Resolution: 250 meters 

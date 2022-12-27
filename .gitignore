@@ -1,0 +1,15 @@
+.idea/
+*__pycache__/
+backup
+cachedir
+*.DS_Store
+*.tif
+*.tif.aux.xml
+*.vrt
+*.dbf
+*.shp
+*.shx
+*.prj
+*.sbn
+*.sbx
+*.shx
