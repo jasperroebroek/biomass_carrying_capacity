@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/582606590.svg)](https://zenodo.org/badge/latestdoi/582606590)
+
 Data processing and analysis steps
 ----------------------------------
 
